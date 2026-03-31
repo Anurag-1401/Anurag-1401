@@ -1,5 +1,20 @@
-## Hey there 👋 💫 
-👋 I'm Anurag!<br><br>🎯 I’m currently working on<br>- A project that is solution of hostel attendance problem<br>- Personal AI chatbot experiments<br><br>🤝 I’m looking to collaborate on<br>- Innovative AI or Machine Learning projects<br>- Open-source web tools that solve real-world problems<br><br>🙋 I’m looking for help with<br>- Advanced image/video generation AI models<br>- Full-stack best practices and scalability<br><br>🌱 I’m currently learning<br>- Django deeply for backend mastery<br>- Machine Learning algorithms and hands-on model building<br>- Product management for AI-powered platforms<br><br>💬 Ask me about<br>- React.js, Node.js, and RESTful APIs<br>- Payment gateway integration (Razorpay, Stripe)<br>- College project ideas and entrepreneurship<br><br>⚡ Fun fact<br>- I love making mini tools like QR code generators, battery checkers, and animated toggles!<br>
+## Hey there
+## Anurag Bhavthankar<br><br>
+
+I am currently pursuing a B.Tech in Information Technology at SGGSIE&T and have completed a Diploma from Government Polytechnic Pune. I am interested in backend development, scalable systems, and open-source contributions.<br><br>
+
+I have been actively contributing to FOSSASIA's Eventyay project and am applying for Google Summer of Code 2026. My work focuses on building efficient, real-world software systems and continuously improving through collaborative development.<br><br>
+
+## Current Work<br>
+- Backend-focused Telemetry Data Monitoring and Analysis System inspired by ISRO ground-segment architecture<br>
+- SGGS Hostel Management System for automating hostel workflows<br>
+- Personal AI experiments and chatbot development<br><br>
+
+## Areas of Interest<br>
+- Backend development and system design<br>
+- Machine Learning and AI-based applications<br>
+- Open-source contributions<br>
+- Product management for scalable platforms<br>
 
 
 ## 🌐 Socials:
