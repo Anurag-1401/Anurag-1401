@@ -135,6 +135,12 @@ const handleClick = () => {
     }
   }
 
+  const handleLoginKey = (e:React.KeyboardEvent<HTMLInputElement>) => {
+      if(e.key === "Enter"){
+        handleLogin();
+      }
+  }
+
 
 
   return (
@@ -143,16 +149,28 @@ const handleClick = () => {
         <h2 className="text-2xl font-bold mb-6 text-center text-white">Admin Login</h2>
 
         <div className="space-y-4 bg-white/5 p-6 rounded-xl border border-white/10 backdrop-blur ">
-        <Input type="email" placeholder="Email" value={email} onChange={e => setEmail(e.target.value)} onKeyDown={handleKey} className="bg-white/10 text-white border-white/20" />
+          <Input type="email" 
+            placeholder="Email" 
+            value={email} 
+            onChange={e => setEmail(e.target.value)} 
+            onKeyDown={handleKey} 
+            className="bg-white/10 text-white border-white/20" 
+          />
 
         { pass &&
           <div className='flex gap-4'>
-        <Input type="password" placeholder="password" onChange={e => setPassword(e.target.value)} onKeyDown={handleKey} className="bg-white/10 text-white border-white/20" />
-        <Button onClick={handleLogin} className="w-full bg-blue-500 hover:bg-blue-600 text-white">Login with Email</Button>
-        </div>
+            <Input type="password" 
+            placeholder="password" 
+            onChange={e => setPassword(e.target.value)} 
+            onKeyDown={handleLoginKey} 
+            className="bg-white/10 text-white border-white/20" 
+            />
+            <Button onClick={handleLogin} 
+              className="w-full bg-blue-500 hover:bg-blue-600 text-white">
+              Login with Email
+            </Button>
+          </div>
         }
-
-      </div>
 
         <button
           onClick={()=>{handleForgotPassword();
