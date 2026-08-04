@@ -1,6 +1,6 @@
  <Button
               variant="outline"
-              size="sm"
+              size="sm" 
               onClick={() => setIsAdminMode(!isAdminMode)}
               className="bg-transparent border-blue-400/50 text-blue-400 hover:bg-blue-400/10"
             >
