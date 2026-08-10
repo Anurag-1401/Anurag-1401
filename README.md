@@ -168,7 +168,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Anurag-1401&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Anurag-1401&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
@@ -178,7 +178,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anurag-1401&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Anurag-1401&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7"/>
 
 </div>
 
