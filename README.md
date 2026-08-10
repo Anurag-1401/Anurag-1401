@@ -182,6 +182,15 @@ me.say_hi()
 
 ---
 
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-1401&theme=tokyo-night&hide_border=true&area=true&area_color=6C63FF" width="100%"/>
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
