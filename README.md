@@ -236,6 +236,7 @@ me.say_hi()
 
 ---
 
+<!--
 ## 📊 3D Contribution Calendar
 
 <div align="center">
@@ -249,6 +250,7 @@ me.say_hi()
 </div>
 
 ---
+-->
 
 ## 🤝 Connect With Me
 
