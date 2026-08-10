@@ -18,21 +18,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Anurag-1401
           MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "username": "Anurag-1401",
-              "backgroundColor": "#000000",
-              "foregroundColor": "#6C63FF",
-              "contributionColorArray": [
-                "#1e1e2e",
-                "#3B3B8A",
-                "#5353B5",
-                "#6C63FF",
-                "#9B8FFF"
-              ],
-              "angle": -30,
-              "outputFileGitHub": "profile-3d-contrib/profile-night-rainbow.svg"
-            }
+          SETTING_JSON: profile-3d-settings.json
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
