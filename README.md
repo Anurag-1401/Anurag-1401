@@ -157,7 +157,6 @@ me.say_hi()
 | 🏆 Hacktoberfest | Digital Ocean | ✅ Participated |
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -166,9 +165,7 @@ me.say_hi()
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-1401&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Anurag-1401&theme=tokyonight&hide_border=true" width="60%"/>
 
@@ -180,7 +177,7 @@ me.say_hi()
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Anurag-1401&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Anurag-1401&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7"/>
 
 </div>
 
