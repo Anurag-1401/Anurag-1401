@@ -236,6 +236,20 @@ me.say_hi()
 
 ---
 
+## 📊 3D Contribution Calendar
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Anurag-1401/Anurag-1401/output/profile-3d-contrib/profile-night-rainbow.svg"
+  alt="3D Contribution Calendar"
+  width="100%"
+/>
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
