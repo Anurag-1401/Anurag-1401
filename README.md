@@ -241,7 +241,7 @@ me.say_hi()
 <div align="center">
 
 <img
-  src="https://cdn.jsdelivr.net/gh/Anurag-1401/Anurag-1401@output/profile-3d-contrib/profile-night-rainbow.svg"
+  src="https://raw.githubusercontent.com/Anurag-1401/Anurag-1401/output/profile-customize.svg"
   alt="3D Contribution Calendar"
   width="100%"
 />
