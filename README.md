@@ -5,7 +5,7 @@
 </div>
 
 ---
-
+ 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+real-world+backend+systems+%F0%9F%9A%80;GSoC+2026+Aspirant+%40+FOSSASIA+Eventyay;Open+Source+%7C+FastAPI+%7C+MERN+%7C+Spring+Boot;Turning+ideas+into+scalable+software+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
